@@ -2,7 +2,8 @@
 
 ## Course Overview
 
-This short course offers a hands-on introduction to Large Language Models (LLMs).
+This short course offers a hands-on introduction to Large Language Models (LLMs). 
+Instructors: Krzysztof Nowak, Barbara McGillivray, Paola Marongiu.
 
 ## Learning Objectives
 
