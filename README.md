@@ -11,7 +11,8 @@ By the end of this course, participants will be able to:
 ## Course Structure
 
 ### Module 1:
-### Module 2:
+### Module 2: Prompt Engineering
+[Prompt Engineering Colab Notebook](https://colab.research.google.com/drive/13AfQFa74ZBzOm_WJ50VTD48s6J8-D2nN?usp=sharing#scrollTo=hVWJqchSunmg)
 ### Module 3:
 ### Module 4:
 ### Module 5:
