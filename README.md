@@ -2,56 +2,14 @@
 
 ## Course Overview
 
-This short course offers a hands-on introduction to Large Language Models (LLMs). 
-Instructors: Krzysztof Nowak, Barbara McGillivray, Paola Marongiu.
+This repository contains materials developed for a short course offering a hands-on introduction to Large Language Models (LLMs) to the members of the project [The history and rhetoric of invectives in Greek, Roman and Early Christian Polemics](https://www.human.umk.pl/nauka/granty-pracownikow/historia-i-retoryka-inwektywy-w-polemikach-starozytnej-grecji-rzymu-i-wczesno-chrzescijanskich/).
 
-## Learning Objectives
-
-By the end of this course, participants will be able to:
-
-## Course Structure
-
-### Module 1:
-### Module 2: Prompt Engineering
-[Prompt Engineering Colab Notebook](https://colab.research.google.com/drive/13AfQFa74ZBzOm_WJ50VTD48s6J8-D2nN?usp=sharing#scrollTo=hVWJqchSunmg)
-### Module 3:
-### Module 4:
-### Module 5:
-
-## Repository Contents
-
-```
-├── notebooks/               # Jupyter notebooks for each module
-│   ├── 01_.ipynb
-│   ├── 02_.ipynb
-│   ├── 03_.ipynb
-│   ├── 04_.ipynb
-│   └── 05_.ipynb
-├── slides/                  # Presentation materials
-│   ├── module1_slides.pdf
-│   ├── module2_slides.pdf
-│   ├── module3_slides.pdf
-│   ├── module4_slides.pdf
-│   └── module5_slides.pdf
-├── data/                    # Datasets for exercises
-```
-
-## Getting Started
-
-### Environment Setup
-
-### API Keys
-
-## Additional Resources
-
-- [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index)
-- [OpenAI API Documentation](https://platform.openai.com/docs/)
-- [Anthropic Claude Documentation](https://docs.anthropic.com/)
-- [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction)
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-
-## Acknowledgments
-
-- This course draws from various open resources in the field of NLP and AI
-
-## Contact
+Two modules are covered:
+- Choosing the "Right" Model and
+  - [presentation](LLMWorkshop_ChoosingYourModel.pdf)
+  - [Colab notebook](notebooks/Choosing_the_Right_Model.ipynb)
+- Prompt Engineering
+  - [presentation](LLMWorkshop_IntroToPrompting.pdf)
+  - [Colab notebook](notebooks/Talking_to_the_LLM_with_Prompts.ipynb)
+ 
+You will need to provide an OpenAI API key in order to run the code.
